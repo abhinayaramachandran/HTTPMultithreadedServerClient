@@ -1,5 +1,5 @@
 #HTTPMUltithreadedServerClient
-
+~~~
 Implementation Details:
 	• Development language: Java
 	• IDE used: Eclipse Kepler
@@ -40,7 +40,7 @@ The web client is implemented by
 
 
 
-
+~~~
 
 Code References:
 http://cs.lmu.edu/~ray/notes/javanetexamples/
